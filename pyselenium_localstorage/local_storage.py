@@ -1,4 +1,4 @@
-import codes
+from pyselenium_localstorage import codes
 
 
 class LocalStorage:
